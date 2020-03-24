@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "open sans", helvetica, arial, sans;
+}
+.logo{
+  width: 100px;
+}
+.log-form {
+  width: 100%;
+  min-width: 320px;
+  max-width: 475px;
+  background: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  
+}
+
+h2 {
+  text-align: center;
+}
+.log-form {
+  padding: 100px;
+  -webkit-box-shadow: 4px -1px 53px -7px rgba(138, 138, 138, 0.30);
+  -moz-box-shadow: 4px -1px 53px -7px rgba(138, 138, 138, 0.30);
+  box-shadow: 4px -1px 53px -7px rgba(138, 138, 138, 0.30);
+}
+
+form {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+/* ========================WRITE YOUR CSS FROM HERE======================== */
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+body {
+  font-family: "open sans", helvetica, arial, sans;
+  background-color:#8c8888;
+}
+.log-form {
+  width: 100%;
+  min-width: 320px;
+  max-width: 475px;
+  background: #ddd9d9;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top:600px;
+  margin-bottom:300px;
+}  
+}
+form {
+  display: block;
+  text-align: left;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
+input {
+  padding:12px 20px;
+  border-radius: 4px;
+  border: 1px solid black;
+  border-color:#747481;
+  margin:2px;
+}
+input:above{
+	margin:2px;
+}
+textarea {
+	 border-radius: 4px;
+	 border: 1px solid black;
+	 border-color:#747481;
+     margin:2px;
+}
+#btn_s{
+    width: 100px;
+    margin-left: 30%;
+    margin-right:50%;
+	text-align: center;
+}
+p {
+	 margin:2px;
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
